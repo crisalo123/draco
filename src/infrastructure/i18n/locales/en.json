@@ -1,0 +1,115 @@
+{
+  "brand": "DRACO",
+  "tagline": "Technology S.A.S. · Organic Food",
+  "nav": {
+    "main_label": "Site sections",
+    "home": "Home",
+    "about": "About",
+    "explore": "Explore",
+    "contact": "Order on WhatsApp",
+    "cart": "Cart",
+    "cart_empty": "Your selection is empty"
+  },
+  "hero": {
+    "eyebrow": "Medicinal mushrooms · Supplements · Tinctures",
+    "title": "Medicinal benefits in natural tablets and tinctures.",
+    "subtitle": "Six medicinal mushroom extracts for everyday wellness. Browse the catalog and we'll finalize your order on WhatsApp.",
+    "cta_catalog": "See products",
+    "cta_whatsapp": "Chat with us",
+    "photo_credit": "Ganoderma (Reishi) — DRACO catalog sheet.",
+    "image_zoom_open": "Enlarge hero image"
+  },
+  "trust": {
+    "direct": "Fruit-body extracts",
+    "fresh": "Tablets and tinctures",
+    "craft": "Natural dietary supplement"
+  },
+  "sections": {
+    "extract": "Medicinal mushrooms"
+  },
+  "product": {
+    "add": "Add",
+    "featured": "Featured",
+    "details_open": "Benefits in detail",
+    "details_hide": "Hide",
+    "zoom_open_named": "Enlarge image · {{name}}",
+    "zoom_close": "Close enlarged view",
+    "zoom_dialog_named": "Enlarged view · {{name}}"
+  },
+  "price": {
+    "per_bottle": "/ bottle",
+    "from": "From",
+    "approx_hint": "Indicative price — confirm when you order on WhatsApp."
+  },
+  "cart": {
+    "title": "Your selection",
+    "subtitle": "No checkout here — we finalize everything on WhatsApp.",
+    "empty": "Tap “Add” on any item to build your order.",
+    "quantity": "Qty",
+    "remove": "Remove",
+    "clear": "Clear all",
+    "send": "Send order via WhatsApp",
+    "configure_phone": "Set VITE_WHATSAPP_PHONE in your environment to enable WhatsApp links.",
+    "badge": "items"
+  },
+  "whatsapp": {
+    "intro": "Hello DRACO — I'd like to inquire about:",
+    "outro": "I'll confirm my shipping address and payment method with you. Thank you!"
+  },
+  "footer": {
+    "rights": "© {{year}} DRACO Technology S.A.S.",
+    "locations_title": "Contact & shipping",
+    "instagram": "Instagram"
+  },
+  "locations": {
+    "body": "Hours, nationwide shipping, and delivery address — we'll confirm the details with you on WhatsApp."
+  },
+  "about": {
+    "title": "Who we are",
+    "hero_eyebrow": "Organic Food · Supplements · Tinctures",
+    "hero_lead": "DRACO Technology S.A.S. offers medicinal mushrooms as dietary supplements in capsules and tinctures. Catalog includes Ganoderma, Lion's Mane, Maitake, Turkey Tail, Cordyceps, and Shiitake. No web checkout — everything via WhatsApp.",
+    "who_title": "Our essence",
+    "who_body": "We work with functional mushrooms focused on natural wellness. Due to their fibrous texture, they are not usually eaten as food — mainly as oil or alcohol tinctures, teas, and dietary supplement tablets.",
+    "mission_title": "Mission",
+    "mission_body": "Bring the medicinal benefits of mushrooms in practical formats — tablets and tinctures — with clear information and direct service when closing each order.",
+    "vision_title": "Vision",
+    "vision_body": "Be a reference for natural mushroom-based supplements, with transparency in composition and human support in every inquiry.",
+    "quality_title": "Ways to consume",
+    "quality_intro": "Mainly as tinctures in oil, alcohol, and teas. As a dietary supplement in tablets. Due to fibrous texture, it is not usually eaten — the value is in concentrated bioactive compounds.",
+    "pillars_title": "How we work",
+    "pillar1_title": "Functional origin",
+    "pillar1_body": "Six medicinal species with traditional backing: Reishi, Lion's Mane, Maitake, Turkey Tail, Cordyceps, and Shiitake.",
+    "pillar2_title": "Practical format",
+    "pillar2_body": "Capsules and tinctures ready to integrate into your daily routine — practical, easy-to-use formats.",
+    "pillar3_title": "Direct service",
+    "pillar3_body": "Build your order in the in-app cart and send via WhatsApp, where we agree on quantities, shipping, and address.",
+    "cta_catalog": "See products",
+    "cta_whatsapp": "Chat on WhatsApp"
+  },
+  "products": {
+    "extract_reishi": {
+      "name": "Ganoderma · Reishi · Lucidum",
+      "summary": "Adjuvant in diabetes. Complementary treatment for respiratory and liver diseases. Anticancer properties. Regulates blood sugar naturally. Available in capsules and tincture."
+    },
+    "extract_lion_mane": {
+      "name": "Lion's Mane · Hericium erinaceus",
+      "summary": "Treatment for anxiety and depression. Natural GABA producer. Hormonal regulator. Reduces digestive inflammation; useful for ulcers and gastritis. Strengthens immunity. Supports the nervous system — may help prevent Alzheimer's and Parkinson's."
+    },
+    "extract_maitake": {
+      "name": "Maitake · Grifola frondosa",
+      "summary": "Vital energy. Anticancer properties. Treatment for fibromyalgia. Boosts the immune system. Anti-inflammatory properties."
+    },
+    "extract_turkey_tail": {
+      "name": "Turkey Tail · Trametes versicolor",
+      "summary": "Treatment for prostate inflammation. Natural antibiotic and antiviral. Helps prevent the growth of cancer cells."
+    },
+    "extract_cordyceps": {
+      "name": "Cordyceps · Militaris",
+      "summary": "Increases energy naturally. Anti-aging. Sexual invigorating. Improves fertility. 60 capsules + tincture available."
+    },
+    "extract_shiitake": {
+      "name": "Shiitake · Lentinula edodes",
+      "summary": "Arterial cleansing. Reduces cholesterol levels. Helps reduce osteoporosis. Protects the cardiovascular system. Prevents thrombosis."
+    }
+  }
+}

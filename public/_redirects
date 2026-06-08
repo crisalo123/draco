@@ -1,0 +1,3 @@
+# SPA (Vite/React): cualquier ruta sirve index.html para que recargar no dé 404.
+# Netlify, Cloudflare Pages y otros hosts lo entienden tal cual.
+/*    /index.html   200

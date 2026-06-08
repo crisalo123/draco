@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="11" fill="#0a0807" />
+  <!-- platillo -->
+  <line
+    x1="11"
+    y1="38.5"
+    x2="37"
+    y2="38.5"
+    stroke="#c9a962"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    opacity="0.65"
+  />
+  <!-- cuerpo taza -->
+  <rect
+    x="15.5"
+    y="24"
+    width="13"
+    height="11.5"
+    rx="2.2"
+    fill="#1c1614"
+    stroke="#c9a962"
+    stroke-width="1.9"
+  />
+  <!-- superficie café -->
+  <ellipse
+    cx="22"
+    cy="24"
+    rx="7"
+    ry="2.35"
+    fill="#3d2914"
+    stroke="#c9a962"
+    stroke-width="1.35"
+  />
+  <!-- asa -->
+  <path
+    d="M28.5 26h3.8c2.6 0 4.7 2 4.7 4.5s-2.1 4.5-4.7 4.5h-3.5"
+    stroke="#c9a962"
+    stroke-width="1.9"
+    stroke-linecap="round"
+  />
+  <!-- vapor -->
+  <path
+    d="M17 13c0 2.5-1 4.5-1 7M24 11c0 3-1.2 5.5-1.2 8M31 13c0 2.5-1 4.5-1 7"
+    stroke="#c9a962"
+    stroke-width="1.65"
+    stroke-linecap="round"
+    opacity="0.92"
+  />
+</svg>

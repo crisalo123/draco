@@ -1,0 +1,115 @@
+{
+  "brand": "DRACO",
+  "tagline": "Technology S.A.S. · Organic Food",
+  "nav": {
+    "main_label": "Secciones del sitio",
+    "home": "Inicio",
+    "about": "Nosotros",
+    "explore": "Explorar",
+    "contact": "Pedir por WhatsApp",
+    "cart": "Carrito",
+    "cart_empty": "Tu selección está vacía"
+  },
+  "hero": {
+    "eyebrow": "Hongos medicinales · Suplementos · Tinturas",
+    "title": "Beneficios medicinales en comprimidos y tinturas naturales.",
+    "subtitle": "Seis extractos medicinales para bienestar integral. Explora el catálogo y concretamos tu pedido por WhatsApp.",
+    "cta_catalog": "Ver productos",
+    "cta_whatsapp": "Escríbenos",
+    "photo_credit": "Ganoderma (Reishi) — ficha del catálogo DRACO.",
+    "image_zoom_open": "Ampliar imagen principal"
+  },
+  "trust": {
+    "direct": "Extractos de cuerpo fructífero",
+    "fresh": "Comprimidos y tinturas",
+    "craft": "Suplemento dietario natural"
+  },
+  "sections": {
+    "extract": "Hongos medicinales"
+  },
+  "product": {
+    "add": "Añadir",
+    "featured": "Destacado",
+    "details_open": "Beneficios en detalle",
+    "details_hide": "Ocultar",
+    "zoom_open_named": "Ampliar imagen · {{name}}",
+    "zoom_close": "Cerrar vista ampliada",
+    "zoom_dialog_named": "Vista ampliada · {{name}}"
+  },
+  "price": {
+    "per_bottle": "/ frasco",
+    "from": "Desde",
+    "approx_hint": "Precio orientativo — confirmar al pedir por WhatsApp."
+  },
+  "cart": {
+    "title": "Tu selección",
+    "subtitle": "Aquí no hay checkout — concretamos todo por WhatsApp.",
+    "empty": "Pulsa «Añadir» en cualquier producto para armar tu pedido.",
+    "quantity": "Cant.",
+    "remove": "Quitar",
+    "clear": "Vaciar",
+    "send": "Enviar pedido por WhatsApp",
+    "configure_phone": "Configura VITE_WHATSAPP_PHONE en tu entorno para activar los enlaces.",
+    "badge": "artículos"
+  },
+  "whatsapp": {
+    "intro": "Hola DRACO — me interesa consultar por:",
+    "outro": "Mi dirección de envío y forma de pago la confirmo contigo. ¡Gracias!"
+  },
+  "footer": {
+    "rights": "© {{year}} DRACO Technology S.A.S.",
+    "locations_title": "Contacto y envíos",
+    "instagram": "Instagram"
+  },
+  "locations": {
+    "body": "Horarios, envíos a todo Colombia y dirección de entrega los confirmamos contigo por WhatsApp."
+  },
+  "about": {
+    "title": "Quiénes somos",
+    "hero_eyebrow": "Organic Food · Suplementos · Tinturas",
+    "hero_lead": "DRACO Technology S.A.S. ofrece hongos medicinales como suplemento dietario en cápsulas y tinturas. Catálogo de Ganoderma, Melena de León, Maitake, Cola de Pavo, Cordyceps y Shiitake. Sin checkout web — todo por WhatsApp.",
+    "who_title": "Nuestra esencia",
+    "who_body": "Trabajamos hongos funcionales con enfoque en bienestar natural. Por su textura fibrosa, no suelen consumirse como alimento: principalmente en tinturas (aceite, alcohol), tés y como suplemento dietario en comprimidos.",
+    "mission_title": "Misión",
+    "mission_body": "Acercar los beneficios medicinales de los hongos en formatos prácticos — comprimidos y tinturas — con información clara y trato directo al concretar cada pedido.",
+    "vision_title": "Visión",
+    "vision_body": "Ser referencia en suplementos naturales a base de hongos medicinales, con transparencia en composición y acompañamiento humano en cada consulta.",
+    "quality_title": "Formas de consumo",
+    "quality_intro": "Principalmente en tinturas en aceite, alcohol y tés. Como suplemento dietario en comprimidos. Debido a su textura fibrosa, no suele comerse — el valor está en sus compuestos bioactivos concentrados.",
+    "pillars_title": "Cómo lo hacemos",
+    "pillar1_title": "Origen funcional",
+    "pillar1_body": "Seis especies medicinales con respaldo tradicional: Reishi, Melena de León, Maitake, Cola de Pavo, Cordyceps y Shiitake.",
+    "pillar2_title": "Formato práctico",
+    "pillar2_body": "Cápsulas y tinturas listas para integrar en tu rutina diaria — formatos prácticos y de fácil consumo.",
+    "pillar3_title": "Trato directo",
+    "pillar3_body": "Armamos el pedido en el carrito interno y lo enviamos por WhatsApp, donde acordamos cantidades, envío y dirección.",
+    "cta_catalog": "Ver productos",
+    "cta_whatsapp": "Escribir por WhatsApp"
+  },
+  "products": {
+    "extract_reishi": {
+      "name": "Ganoderma · Reishi · Lucidum",
+      "summary": "Coadyuvante en diabetes. Tratamiento complementario para enfermedades respiratorias y hepáticas. Propiedades anticancerígenas. Regula los niveles de azúcar en sangre de forma natural. Presentación en cápsulas y tintura."
+    },
+    "extract_lion_mane": {
+      "name": "Melena de León · Hericium erinaceus",
+      "summary": "Tratamiento para ansiedad y depresión. Productor natural de GABA. Regulador hormonal. Reduce inflamación digestiva; útil en úlceras y gastritis. Fortalece el sistema inmunológico. Repara el sistema neuronal — previene Alzheimer y Parkinson."
+    },
+    "extract_maitake": {
+      "name": "Maitake · Grifola frondosa",
+      "summary": "Energía vital. Propiedades anticancerígenas. Tratamiento para fibromialgia. Eleva el sistema inmunológico. Propiedades antiinflamatorias."
+    },
+    "extract_turkey_tail": {
+      "name": "Cola de Pavo · Trametes versicolor",
+      "summary": "Tratamiento para inflamación de la próstata. Antibiótico natural y antiviral. Ayuda a prevenir el crecimiento de células cancerígenas."
+    },
+    "extract_cordyceps": {
+      "name": "Cordyceps · Militaris",
+      "summary": "Aumenta tu energía de forma natural. Antienvejecimiento. Vigorizante sexual. Mejora la fertilidad. 60 cápsulas + tintura disponible."
+    },
+    "extract_shiitake": {
+      "name": "Shiitake · Lentinula edodes",
+      "summary": "Barrido arterial. Reducción de niveles de colesterol. Ayuda a reducir la osteoporosis. Protege el sistema cardiovascular. Previene la trombosis."
+    }
+  }
+}
