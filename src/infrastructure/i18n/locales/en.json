@@ -1,6 +1,6 @@
 {
-  "brand": "DRACO",
-  "tagline": "Technology S.A.S. · Organic Food",
+  "brand": "BIOSETAS",
+  "tagline": "Biológica Pharma S.A.S",
   "nav": {
     "main_label": "Site sections",
     "home": "Home",
@@ -16,7 +16,7 @@
     "subtitle": "Six medicinal mushroom extracts for everyday wellness. Browse the catalog and we'll finalize your order on WhatsApp.",
     "cta_catalog": "See products",
     "cta_whatsapp": "Chat with us",
-    "photo_credit": "Ganoderma (Reishi) — DRACO catalog sheet.",
+    "photo_credit": "Ganoderma (Reishi) — BIOSETAS catalog sheet.",
     "image_zoom_open": "Enlarge hero image"
   },
   "trust": {
@@ -53,11 +53,11 @@
     "badge": "items"
   },
   "whatsapp": {
-    "intro": "Hello DRACO — I'd like to inquire about:",
+    "intro": "Hello BIOSETAS — I'd like to inquire about:",
     "outro": "I'll confirm my shipping address and payment method with you. Thank you!"
   },
   "footer": {
-    "rights": "© {{year}} DRACO Technology S.A.S.",
+    "rights": "© {{year}} Biológica Pharma S.A.S.",
     "locations_title": "Contact & shipping",
     "instagram": "Instagram"
   },
@@ -66,8 +66,8 @@
   },
   "about": {
     "title": "Who we are",
-    "hero_eyebrow": "Organic Food · Supplements · Tinctures",
-    "hero_lead": "DRACO Technology S.A.S. offers medicinal mushrooms as dietary supplements in capsules and tinctures. Catalog includes Ganoderma, Lion's Mane, Maitake, Turkey Tail, Cordyceps, and Shiitake. No web checkout — everything via WhatsApp.",
+    "hero_eyebrow": "Biológica Pharma · Supplements · Tinctures",
+    "hero_lead": "BIOSETAS — Biológica Pharma S.A.S. offers medicinal mushrooms as dietary supplements in capsules and tinctures. Catalog includes Ganoderma, Lion's Mane, Maitake, Turkey Tail, Cordyceps, and Shiitake. No web checkout — everything via WhatsApp.",
     "who_title": "Our essence",
     "who_body": "We work with functional mushrooms focused on natural wellness. Due to their fibrous texture, they are not usually eaten as food — mainly as oil or alcohol tinctures, teas, and dietary supplement tablets.",
     "mission_title": "Mission",

@@ -1,6 +1,6 @@
 {
-  "brand": "DRACO",
-  "tagline": "Technology S.A.S. · Organic Food",
+  "brand": "BIOSETAS",
+  "tagline": "Biológica Pharma S.A.S",
   "nav": {
     "main_label": "Secciones del sitio",
     "home": "Inicio",
@@ -16,7 +16,7 @@
     "subtitle": "Seis extractos medicinales para bienestar integral. Explora el catálogo y concretamos tu pedido por WhatsApp.",
     "cta_catalog": "Ver productos",
     "cta_whatsapp": "Escríbenos",
-    "photo_credit": "Ganoderma (Reishi) — ficha del catálogo DRACO.",
+    "photo_credit": "Ganoderma (Reishi) — ficha del catálogo BIOSETAS.",
     "image_zoom_open": "Ampliar imagen principal"
   },
   "trust": {
@@ -53,11 +53,11 @@
     "badge": "artículos"
   },
   "whatsapp": {
-    "intro": "Hola DRACO — me interesa consultar por:",
+    "intro": "Hola BIOSETAS — me interesa consultar por:",
     "outro": "Mi dirección de envío y forma de pago la confirmo contigo. ¡Gracias!"
   },
   "footer": {
-    "rights": "© {{year}} DRACO Technology S.A.S.",
+    "rights": "© {{year}} Biológica Pharma S.A.S.",
     "locations_title": "Contacto y envíos",
     "instagram": "Instagram"
   },
@@ -66,8 +66,8 @@
   },
   "about": {
     "title": "Quiénes somos",
-    "hero_eyebrow": "Organic Food · Suplementos · Tinturas",
-    "hero_lead": "DRACO Technology S.A.S. ofrece hongos medicinales como suplemento dietario en cápsulas y tinturas. Catálogo de Ganoderma, Melena de León, Maitake, Cola de Pavo, Cordyceps y Shiitake. Sin checkout web — todo por WhatsApp.",
+    "hero_eyebrow": "Biológica Pharma · Suplementos · Tinturas",
+    "hero_lead": "BIOSETAS — Biológica Pharma S.A.S. ofrece hongos medicinales como suplemento dietario en cápsulas y tinturas. Catálogo de Ganoderma, Melena de León, Maitake, Cola de Pavo, Cordyceps y Shiitake. Sin checkout web — todo por WhatsApp.",
     "who_title": "Nuestra esencia",
     "who_body": "Trabajamos hongos funcionales con enfoque en bienestar natural. Por su textura fibrosa, no suelen consumirse como alimento: principalmente en tinturas (aceite, alcohol), tés y como suplemento dietario en comprimidos.",
     "mission_title": "Misión",

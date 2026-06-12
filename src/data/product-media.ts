@@ -1,5 +1,5 @@
 /**
- * Medios extraídos del PDF de referencia (logo DRACO + tarros blancos por producto).
+ * Medios del sitio (logo extraído de bio.pdf + tarros blancos por producto).
  */
 import { CATALOG } from '@/data/catalog'
 import logo from '@/assets/logo.jpg'

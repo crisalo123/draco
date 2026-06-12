@@ -1,6 +1,6 @@
 import type { Product } from '@/domain/product.types'
 
-/** Catálogo estático alineado al PDF DRACO — 6 hongos medicinales */
+/** Catálogo estático — 6 hongos medicinales */
 export const CATALOG: readonly Product[] = [
   {
     id: 'extract_reishi',
