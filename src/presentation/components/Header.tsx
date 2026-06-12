@@ -41,13 +41,13 @@ export function Header({ onOpenCart }: HeaderProps) {
           className="group flex min-w-0 items-center gap-3 text-left sm:gap-4"
           aria-label={t('nav.home')}
         >
-          <span className="relative flex h-14 shrink-0 items-center justify-center overflow-hidden rounded-xl border-2 border-denuded-gold/45 bg-white px-2 shadow-[0_0_16px_rgba(143,212,168,0.2)] sm:h-16 sm:px-2.5 md:h-[4.5rem] md:px-3">
+          <span className="relative flex h-16 shrink-0 items-center justify-center overflow-hidden rounded-xl border-2 border-denuded-gold/45 bg-white px-2.5 shadow-[0_0_16px_rgba(143,212,168,0.2)] sm:h-[4.25rem] sm:px-3 md:h-20 md:px-3.5">
             <img
               src={BRAND_LOGO_URL}
               alt=""
               decoding="async"
               draggable={false}
-              className="h-full w-auto max-w-[7.5rem] object-contain object-center transform-gpu sm:max-w-[8.5rem] md:max-w-[9.5rem]"
+              className="h-full w-auto max-w-36 object-contain object-center transform-gpu sm:max-w-40 md:max-w-44"
             />
           </span>
           <div className="hidden min-w-0 flex-col border-l border-white/10 pl-3 sm:flex sm:pl-4">
