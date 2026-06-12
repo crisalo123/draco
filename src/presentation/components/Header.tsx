@@ -35,21 +35,19 @@ export function Header({ onOpenCart }: HeaderProps) {
 
   return (
     <header className="sticky top-0 z-40 border-b border-emerald-100/10 bg-[#0f1f16]/85 backdrop-blur-xl">
-      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-4 sm:px-6">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3.5 sm:px-6 sm:py-4">
         <Link
           to="/"
-          className="group flex min-w-0 items-center gap-3 text-left sm:gap-4"
+          className="group flex min-w-0 items-center gap-3 sm:gap-4"
           aria-label={t('nav.home')}
         >
-          <span className="relative flex h-16 shrink-0 items-center justify-center overflow-hidden rounded-xl border-2 border-denuded-gold/45 bg-white px-2.5 shadow-[0_0_16px_rgba(143,212,168,0.2)] sm:h-[4.25rem] sm:px-3 md:h-20 md:px-3.5">
-            <img
-              src={BRAND_LOGO_URL}
-              alt=""
-              decoding="async"
-              draggable={false}
-              className="h-full w-auto max-w-36 object-contain object-center transform-gpu sm:max-w-40 md:max-w-44"
-            />
-          </span>
+          <img
+            src={BRAND_LOGO_URL}
+            alt={t('brand')}
+            decoding="async"
+            draggable={false}
+            className="h-11 w-auto max-w-[10.75rem] shrink-0 object-contain object-left sm:h-12 sm:max-w-[12.5rem] md:h-[3.4rem] md:max-w-[13.5rem]"
+          />
           <div className="hidden min-w-0 flex-col border-l border-white/10 pl-3 sm:flex sm:pl-4">
             <span className="font-display text-lg tracking-tight text-denuded-parchment transition group-hover:text-denuded-gold sm:text-xl">
               {t('brand')}

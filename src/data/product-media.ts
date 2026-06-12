@@ -2,7 +2,7 @@
  * Medios del sitio (logo extraído de bio.pdf + tarros blancos por producto).
  */
 import { CATALOG } from '@/data/catalog'
-import logo from '@/assets/logo.jpg'
+import logo from '@/assets/logo.png'
 import hero from '@/assets/hero.jpg'
 import imgReishi from '@/assets/img_reishi.jpg'
 import imgLionMane from '@/assets/img_lion_mane.jpg'
